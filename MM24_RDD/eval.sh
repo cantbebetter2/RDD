@@ -1,1 +1,0 @@
-python ddim_eval.py --flagfile ./config/CELEBA_EVAL.txt --logdir ./logs/celeba_subset/1024 --gpu_id 4 --stride 8
